@@ -23,7 +23,9 @@ python app.py
 
 ## Screenshots
 
-
+![Screenshot (22)](https://github.com/7hourspg/background_remover/assets/98067649/ead490fe-27da-4bc0-afb9-fdedf5dfe14c)
+![Screenshot (23)](https://github.com/7hourspg/background_remover/assets/98067649/9ca5a3b7-ccc5-4f7f-aaee-15bfd44e30d7)
+![Screenshot (24)](https://github.com/7hourspg/background_remover/assets/98067649/831596bc-8edc-447a-a8fd-5bd09272b041)
 
 
 ## Author
