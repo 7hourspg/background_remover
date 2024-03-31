@@ -27,3 +27,4 @@ env-bak/
 
 # Ignore generated files
 instance/
+.vercel
