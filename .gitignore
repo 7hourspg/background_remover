@@ -1,0 +1,29 @@
+/node_modules
+./myvenv
+myenv/
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+env-bak/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Ignore generated files
+instance/
